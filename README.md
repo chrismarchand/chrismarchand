@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, My name is Chris 👋
 
-<!--
-**chrismarchand/chrismarchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product manager for the last 5 years in brand strategy and adertising projects, I am adding a new scope at my project builder profile. A more Techy one : the web development. 🚀
 
-Here are some ideas to get you started:
+I'm trained in HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails thanks to Le Wagon Bordeaux. I implemented and shipped to production a clone of AirBnB and a Rails prototype with best buddies in the www :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MelanieCouronne & matthieu-laumet ⭐⭐
+
+🚀 MamieExpress
+
+🚀 Buddy-bot
+
+To be continued 🥳
